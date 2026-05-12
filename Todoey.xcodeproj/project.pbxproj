@@ -20,7 +20,7 @@
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		4984BC4E2FAA060F0096905F /* Data Model */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "Data Model"; sourceTree = "<group>"; };
-		4984BC4F2FAA062F0096905F /* Conrtrollers */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Conrtrollers; sourceTree = "<group>"; };
+		4984BC4F2FAA062F0096905F /* Controllers */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Controllers; sourceTree = "<group>"; };
 		4984BC502FAA063A0096905F /* Views */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Views; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
@@ -56,7 +56,7 @@
 			children = (
 				EB2BE4F9239524DB00FB933B /* AppDelegate.swift */,
 				4984BC502FAA063A0096905F /* Views */,
-				4984BC4F2FAA062F0096905F /* Conrtrollers */,
+				4984BC4F2FAA062F0096905F /* Controllers */,
 				4984BC4E2FAA060F0096905F /* Data Model */,
 				EB2BE502239524DC00FB933B /* Assets.xcassets */,
 				EB2BE507239524DC00FB933B /* Info.plist */,
@@ -81,7 +81,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				4984BC4E2FAA060F0096905F /* Data Model */,
-				4984BC4F2FAA062F0096905F /* Conrtrollers */,
+				4984BC4F2FAA062F0096905F /* Controllers */,
 				4984BC502FAA063A0096905F /* Views */,
 			);
 			name = Todoey;
